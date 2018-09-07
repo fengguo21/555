@@ -1,0 +1,70 @@
+/*设置默认超出隐藏*/
+
+.sxh-width {
+	width: 100%;
+	word-break: keep-all;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.sxh-border_radius {
+	background-color: #fff;
+    margin: 0 10px 10px 10px;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 1px 0 1px rgba(35,20,17,.13);
+}
+
+
+/*这里是地址设置默认的切换颜色*/
+
+.mint-switch-input:checked+.mint-switch-core {
+	border-color: #53D769;
+	background-color: #53D769;
+}
+
+
+/*这里是下拉列表高度设置*/
+
+.mint-cell {
+	min-height: 40px;
+}
+
+
+/*设置地址选择器的选中高亮*/
+
+.picker-center-highlight {
+	background: rgba(238, 238, 240, .55);
+}
+
+
+/*这里是home页面的*/
+
+.mint-tabbar {
+	height: 55px;
+}
+
+.mint-tab-item {
+	position: relative;
+}
+
+.mint-tab-item-icon {
+	position: absolute;
+	width: 100%;
+	bottom: 24px;
+	height: 40px;
+}
+
+.mint-tab-item-icon img {
+	display: inline-block;
+	width: 24px;
+	height: 24px;
+	margin-top: 22px;
+}
+
+.mint-tab-item-label {
+	position: absolute;
+	width: 100%;
+	bottom: 7px;
+}

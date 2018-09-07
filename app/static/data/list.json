@@ -1,0 +1,25 @@
+[{
+    "breedname": "天南星",
+    "price": "22",
+    "unit": "公斤",
+    "number": "10",
+    "location": "吉林",
+    "value": "2",
+    "url": "/static/images/1.jpg"
+}, {
+    "breedname": "白芷",
+    "price": "32",
+    "unit": "斤",
+    "number": "50",
+    "value": "6",
+    "location": "河南",
+    "url": "/static/images/1.jpg"
+}, {
+    "breedname": "玫瑰",
+    "price": "13",
+    "unit": "两",
+    "number": "33",
+    "value": "3",
+    "location": "云南",
+    "url": "/static/images/1.jpg"
+}]
